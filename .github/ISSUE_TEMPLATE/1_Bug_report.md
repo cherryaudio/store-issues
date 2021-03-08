@@ -1,6 +1,10 @@
 ---
-name: "Bug Report"
-about: "Report a Cherry Audio Store bug."
+name: Bug Report
+about: Report a Cherry Audio Store bug.
+title: ''
+labels: bug
+assignees: andymnewhouse
+
 ---
 
 - Operating System and Version: #.#
