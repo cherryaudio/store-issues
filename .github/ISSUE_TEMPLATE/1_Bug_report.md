@@ -7,8 +7,7 @@ assignees: andymnewhouse
 
 ---
 
-- Operating System and Version: #.#
-- Browser type and version: #.#
+<a href="https://www.whatsmybrowser.org/" target="_blank">What's my browser report</a>:
 
 ### Description:
 
