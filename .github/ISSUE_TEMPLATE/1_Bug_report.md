@@ -7,7 +7,7 @@ assignees: andymnewhouse
 
 ---
 
-<a href="https://www.whatsmybrowser.org/" target="_blank">What's my browser report</a>:
+Browser Report: https://www.whatsmybrowser.org/b/_XXXXX_
 
 ### Description:
 
