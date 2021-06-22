@@ -7,7 +7,7 @@ assignees: andymnewhouse
 
 ---
 
-Browser Report: https://www.whatsmybrowser.org/b/_XXXXX_
+Browser Report:  _Please go https://www.whatsmybrowser.org and replace this text with your browser's link_
 
 ### Description:
 
