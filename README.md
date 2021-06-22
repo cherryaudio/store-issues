@@ -1,8 +1,6 @@
 # Cherry Audio Store Issue Tracker
 
-[![report-bug](https://user-images.githubusercontent.com/6541180/122972173-77c4d000-d355-11eb-95bd-f118c5f71ea4.png)](https://github.com/cherryaudio/store-issues/issues/new?assignees=andymnewhouse&labels=bug&template=1_Bug_report.md&title=)
-
-[![request-feature](https://user-images.githubusercontent.com/6541180/122972183-798e9380-d355-11eb-9d87-4d9b36b44639.png)](https://github.com/cherryaudio/store-issues/issues/new?assignees=andymnewhouse&labels=enhancement&template=2_Feature_request.md&title=)
+[![report-bug](https://user-images.githubusercontent.com/6541180/122972173-77c4d000-d355-11eb-95bd-f118c5f71ea4.png)](https://github.com/cherryaudio/store-issues/issues/new?assignees=andymnewhouse&labels=bug&template=1_Bug_report.md&title=) [![request-feature](https://user-images.githubusercontent.com/6541180/122972183-798e9380-d355-11eb-9d87-4d9b36b44639.png)](https://github.com/cherryaudio/store-issues/issues/new?assignees=andymnewhouse&labels=enhancement&template=2_Feature_request.md&title=)
 
 To report a Cherry Audio Store bug, open an issue on this repository. Please include your browser information and a full description of your problem. If applicable, please provide screenshots.
 
