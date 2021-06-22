@@ -8,6 +8,7 @@
     <img width="250px" src="https://user-images.githubusercontent.com/6541180/122972183-798e9380-d355-11eb-9d87-4d9b36b44639.png" />
   </a>
 </p>
+
 To report a Cherry Audio Store bug, open an issue on this repository. Please include your browser information and a full description of your problem. If applicable, please provide screenshots.
 
 This issue board is for tracking bugs in the Cherry Audio Store, not general Voltage Modular, Cherry Audio or plugin questions. Please direct general questions to [our Forum](https://forum.cherryaudio.com) or [our support team](https://cherryaudio.kayako.com/).
